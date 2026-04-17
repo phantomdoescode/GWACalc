@@ -95,17 +95,6 @@ jpackage --input dist --name GWACalc --main-jar GWACalc.jar --main-class GWACalc
   * build `.exe` on Windows
   * build `.dmg` on macOS
 
-## Screenshots
-
-You can add screenshots here later.
-
-Example:
-
-```md
-![GWACalc Light Mode](images/light-mode.png)
-![GWACalc Dark Mode](images/dark-mode.png)
-```
-
 ## Future Improvements
 
 Possible improvements for future versions:
