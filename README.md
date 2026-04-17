@@ -2,6 +2,8 @@
 
 GWACalc is a cross-platform **Java Swing desktop application** for computing the **General Weighted Average (GWA)** of subjects based on their **units** and **grades**. It is designed to run on both **Windows** and **macOS**, with a clean desktop UI and a built-in **dark mode** option.
 
+P.S.: Dark Mode may not be fully functional for Windows yet. Stick to Light Mode for better performance.
+
 ## Features
 
 - Add subject entries with:
